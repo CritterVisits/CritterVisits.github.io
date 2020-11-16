@@ -1,8 +1,22 @@
-.img
-{
-   width:200; height:200
+.barnDoor{
+   width:200px; height:200px;
 }
 
 .right {
-  float:right;
+  float: right;
+}
+
+.container {
+  text-align: center;
+
+}
+.centered
+{
+  float:center
+}
+.body {
+  background-image: url("../img/barnBoard.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
