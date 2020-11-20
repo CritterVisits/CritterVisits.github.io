@@ -27,3 +27,66 @@
 .table .th .td {
   margin: 5px;
 }
+
+.Basic_Text {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+.headerBkgImg {
+	background-image: url(images/Header_girl_Sm.png);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.header{
+  color:#FFFF33;
+  background-color: #669900
+}
+.FAQestions {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #03C;
+	list-style-type: decimal;
+	line-height: 25px;
+	list-style-position: outside;
+	text-align: left;
+}
+.MainTitles {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: #090;
+}
+.FAQestions_box {
+	background-color: #CFC;
+	height: 560px;
+	overflow: auto;
+}
+.FAQanswer_box {
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 5px;
+	height: 500px;
+	overflow: auto;
+	font-size: 16px;
+	text-align: justify;
+}
+.FAQlink {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #390;
+	text-decoration: underline;
+	line-height: 30px;
+}
+.Small_highlighted_txt {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	color: #06F;
+}
