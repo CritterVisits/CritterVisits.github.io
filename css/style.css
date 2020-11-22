@@ -74,6 +74,11 @@
 	font-size: 16px;
 	text-align: justify;
 }
+.answer_box{
+  height: 400px;
+  overflow: auto;
+
+}
 .FAQlink {
 	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: 16px;
