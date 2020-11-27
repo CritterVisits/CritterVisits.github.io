@@ -8,7 +8,12 @@
 
 .overlap-text {
   text-align: center;
+  color: #669900;
+  font-weight: bold;
 
+}
+.overlap-text .big{
+  font-size: 150%;
 }
 .centered
 {
