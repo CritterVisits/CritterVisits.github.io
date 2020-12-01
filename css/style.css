@@ -47,6 +47,7 @@
 	background-position: right top;
 }
 .header{
+  text-decoration: none;
   color:#FFFF33;
   background-color: #669900
 }
@@ -164,7 +165,11 @@
 
 .dropdown-content2 a {
   color: black;
-  padding: 3px 4px;
+  padding: 6px 8px;
   text-decoration: none;
   display: block;
+}
+.ninja_link{
+  text-decoration: none;
+  color: blue;
 }
