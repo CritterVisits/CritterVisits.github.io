@@ -8,7 +8,7 @@
 
 .overlap-text {
   text-align: center;
-  color: #669900;
+  color: #3B591F;
   font-weight: bold;
 
 }
@@ -45,11 +45,6 @@
 	background-image: url(images/Header_girl_Sm.png);
 	background-repeat: no-repeat;
 	background-position: right top;
-}
-.header{
-  text-decoration: none;
-  color:#FFFF33;
-  background-color: #669900
 }
 .FAQestions {
 	font-family: Arial, Helvetica, sans-serif;
@@ -172,4 +167,17 @@
 .ninja_link{
   text-decoration: none;
   color: blue;
+}
+.header{
+  text-decoration: none;
+  font-size: 1.15em;
+  color:#FFFF33;
+  background-color: #669900
+}
+.secondary-header{
+  font-size: 1.05em;
+  color: 669900;
+}
+.bold{
+  font-weight: bold;
 }
