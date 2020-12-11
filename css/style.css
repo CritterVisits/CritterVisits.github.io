@@ -176,7 +176,12 @@
 }
 .secondary-header{
   font-size: 1.05em;
-  color: 669900;
+  color:#FFFF33;
+  background-color: #669900
+}
+.secondary-header-2{
+  font-size: 1.05em;
+  color: #3B591F;
 }
 .bold{
   font-weight: bold;
