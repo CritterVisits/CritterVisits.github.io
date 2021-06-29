@@ -187,3 +187,17 @@
 .bold{
   font-weight: bold;
 }
+.warning{
+  text-decoration: none;
+  font-size: 1.4em;
+  background-color: #FFFF00
+}
+.red{
+  font-weight: bold;
+  color:#FF0000;
+}
+.pink {
+  background: -webkit-linear-gradient(pink, blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
