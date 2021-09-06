@@ -8,8 +8,9 @@
 
 .overlap-text {
   text-align: center;
-  color: #3B591F;
+
   font-weight: bold;
+
 
 }
 .overlap-text .big{
@@ -200,4 +201,16 @@
   background: -webkit-linear-gradient(pink, blue);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+.barnDoorLink{
+  height:200px;
+  width:200px;
+  padding:0px;
+  opacity: 1;
+  color: transparent;
+
+}
+.barnDoorLink:not(:hover){
+  background-image: url("../img/barnDoorSquare.png");
+  color: #3B591F;
 }
