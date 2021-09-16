@@ -182,6 +182,12 @@
   color:#FFFFFF;
   background-color: #0070C0
 }
+.santa_header{
+  text-decoration: none;
+  font-size: 1.4em;
+  color:#FFFFFF;
+  background-color: #FF0000
+}
 .secondary-header{
   font-size: 1.6em;
   color:#FFFF33;
